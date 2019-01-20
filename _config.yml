@@ -1,6 +1,6 @@
 # Site settings
 title: Breakegg
-SEOTitle: 碎蛋---从内而外的突破| 
+SEOTitle: 碎突破| ttt
 header-img: img/post-bg-desk.jpg
 email: breakeggg@gmail.com
 description: "Try it"
@@ -60,7 +60,7 @@ Disqus（https://disqus.com/）
 disqus_username: breakegg
 
 # Gitalk
-gitalk:
+# gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
