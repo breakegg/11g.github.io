@@ -1,6 +1,6 @@
 # Site settings
- title:  wo jiu shi xiang si er yi a 
-SEOTitle: 你的博客 | You Blog        #显示在浏览器上搜索的时候显示的标题
+ title: 1 
+ SEOTitle: 你的博客 | You Blog        #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
 email: You@gmail.com    
 description: "You Blog"              #网站介绍
